@@ -29,11 +29,11 @@
 
 | Field | Your Answer |
 |-------|-------------|
-| **Full Name** | [Write your full name here] |
-| **Student ID** | [Write your student ID here] |
-| **University Email** | [yourid]@std.psau.edu.sa |
-| **GitHub Username** | [your-github-username] |
-| **Repository Link** | [Paste your repository link here] |
+| **Full Name** | [Sarah Mohammed Osman Ali Hegazi] |
+| **Student ID** | [445052828] |
+| **University Email** | [445052828@std.psau.edu.sa] |
+| **GitHub Username** | [sshegazi] |
+| **Repository Link** | [(https://github.com/sshegazi/OS-Assignment1-Sarah-Ali)] |
  
 ---
 
@@ -126,19 +126,22 @@
 **Time spent**: 30 minutes
 
 ---
-
-## Your Development Log
-
-### Entry 1 - [Date and Time]
-**What I did**:
+### Entry 1 - [October 2, 2026, 8:20 PM]
+**What I did**: Forked the project repository, set up my local environment, and updated my student ID in the code.
 
 **Details**:
+ - Signed into my GitHub account created with my university email.
+- Forked the starter repository from makopt/OS-Assignment1-Starter-481 and renamed it according to the assignment instructions.
+- Cloned the repository locally and opened the project folder in VS Code.
+- Updated line 150 in SchedulerSimulation.java with my actual student ID (441XXXXXX).
+- Compiled and tested the program in the terminal to verify it runs properly.
+- Committed the file changes and pushed everything up to GitHub.
 
-**Challenges**:
+**Challenges**: Linking my GitHub account to VS Code kept throwing authorization and email mismatch errors during the login popup.
 
-**Solution**:
+**Solution**: Realized VS Code was opening Microsoft Edge for authorization while my active GitHub session was in Google Chrome. I logged into GitHub on Edge first, then re-triggered the link from VS Code so the browser session could complete the login seamlessly.
 
-**Time spent**:
+**Time spent**: 1 hour and 12 minutes 
 
 ---
 
