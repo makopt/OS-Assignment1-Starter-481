@@ -372,7 +372,7 @@ Example from my output:
 
 # ✅ Final Checklist (complete before submitting)
 
-> ⚠️ **WARNING:** Go through every line. Late submission costs **-1 mark per day**, and the deadline is **October 10, 2026**.
+> ⚠️ **WARNING:** Go through every line. Blackboard does not accept submissions after the deadline, which is **October 10, 2026**.
 
 **Repository**
 - [ ] Repository is **PUBLIC** (Settings → Danger Zone → Visibility)

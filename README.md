@@ -609,7 +609,6 @@ Your work will be evaluated based on the following criteria:
   - Proper file organization and naming conventions
 
 ### Penalties:
-- Late submission: -1 mark per day
 - Missing video: -1 mark
 - Single commit or all commits in last hour: -0.5 mark
 - Private repository: -0.5 mark
@@ -640,6 +639,6 @@ Your work will be evaluated based on the following criteria:
 
 **Deadline:** October 10, 2026
 
-**Late Policy:** -1 mark per day late
+**Late Policy:** Blackboard does not accept submissions after the deadline
 
 Good luck! Start early, commit regularly, and demonstrate your understanding of Java threading through this assignment.
